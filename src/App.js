@@ -8,18 +8,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Matts first React App
-        </p>
-        <p>
-          (it really does not do much)
+          Matt's first React App<br/>
+          (it really doesn't do much!)
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="mailto:matt@upspark.co.uk"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Edited
+          Email Matt
         </a>
       </header>
     </div>
