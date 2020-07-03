@@ -8,10 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Matt's first React App
+          Matts first React App
         </p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          (it really does not do much)
         </p>
         <a
           className="App-link"
