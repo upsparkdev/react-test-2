@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="mailto:matt@upspark.co.uk"
+          href="mailto:matt@wilkinsdesign.co.uk"
           target="_blank"
           rel="noopener noreferrer"
         >
