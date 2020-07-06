@@ -1,11 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
+import Header from "./Header";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header tagline="Fresh Seafood Market"  age={100} className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Matt's first React App<br/>
