@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Header tagline="Fresh Seafood Market" age={100} />
+      <Header tagline="Testing props" age={100} />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
