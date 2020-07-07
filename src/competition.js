@@ -1,16 +1,12 @@
 import React from "react";
 
-const Competition = props => (
-	let props = {
-		title:"-",
-		closingdate:"-"
-	}
+const Competition = ({title,closingdate}) => (
 	<competition className="competition">
 		<h1>
-			<span>{props.title}</span>
+			<span>{title}</span>
 		</h1>
 		<h3 className="closing-date">
-			<span>{props.closingdate}</span>
+			<span>{closingdate}</span>
 		</h3>
 	</competition>
 );
