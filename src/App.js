@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Header tagline="Testing props" age={100} />
-      <Competition title="Competition title" closing-date="29/11/2020" age={100} />
+      <Competition title="Competition title" closingdate="29/11/2020" age={100} />
       
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />

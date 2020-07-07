@@ -5,7 +5,7 @@ const Competition = ({title,closingdate}) => (
 		<h1>
 			<span>{title}</span>
 		</h1>
-		<h3 className="closing-date">
+		<h3 className="closingdate">
 			<span>{closingdate}</span>
 		</h3>
 	</competition>
