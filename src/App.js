@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import Header from './header';
-import Header from './competition';
+import Competition from './competition';
 import './App.css';
 
 function App() {
